@@ -1,2 +1,2 @@
 # Resume
-![Alt text](./images/resume.pdf)
+![Alt text](./images/)
