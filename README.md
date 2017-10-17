@@ -1,2 +1,1 @@
-# Resume
-![](./images/resume.pdf)
+![](images/resume.pdf)
